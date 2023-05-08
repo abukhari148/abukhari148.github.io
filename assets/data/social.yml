@@ -1,0 +1,7 @@
+# 1000 Devpost
+tiktok:
+  Weight: 1000
+  Title: Devpost
+  Prefix: https://devpost.com/
+  Icon:
+    Class: fa-brands fa-dev

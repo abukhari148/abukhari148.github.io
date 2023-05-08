@@ -132,7 +132,7 @@ disableThemeInject=true
         enable=true
         animate=true
         icon="fa-solid fa-heartbeat"
-        pre="Up Time"
+        pre="UpTime"
         value="2023-05-05T00:00:00-02:00"
     # footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
     [footer.order]
@@ -207,6 +207,7 @@ disableThemeInject=true
 [social]
     GitHub="abukhari148"
     Linkedin="ali-bukhari-675321184"
+    Devpost="Hawkeye148"
     Email="abukhari148@proton.me"
     Twitter=""
     Telegram=""

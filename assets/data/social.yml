@@ -9,12 +9,12 @@ github:
 # 002: LinkedIn
 linkedin:
   Weight: 2
-  Prefix: https://linkedin.com/
+  Prefix: https://linkedin.com/in/
   Title: LinkedIn
   Icon:
     Class: fa-brands fa-linkedin fa-fw
 
-# 003 Devpost
+# 003: Devpost
 devpost:
   Weight: 3
   Title: Devpost
@@ -22,7 +22,7 @@ devpost:
   Icon:
     Class: fa-brands fa-dev
 
-# 004Email
+# 004: Email
 email:
   Weight: 4
   Template: mailto:%v

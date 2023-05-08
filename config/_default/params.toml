@@ -207,28 +207,8 @@ disableThemeInject=true
 [social]
     GitHub="abukhari148"
     Linkedin="ali-bukhari-675321184"
-    Devpost="Hawkeye148"
     Email="abukhari148@proton.me"
-    Twitter=""
-    Telegram=""
-    Medium=""
-    Reddit=""
-    Codepen=""
-    FreeCodeCamp=""
-    Bitbucket=""
-    Stackoverflow=""
-    Spotify=""
-    Hackernews=""
-    Twitch=""
-    Thingiverse=""
-    Devto=""
-    Discord=""
-    DiscordInvite=""
-    Kaggle=""
-    HackTheBox=""
-    RootMe=""
-    TryHackMe=""
-    RSS=false
+    Devpost="Hawkeye148"
 
 # page config
 [page]

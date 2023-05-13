@@ -1,19 +1,16 @@
 ---
 title: Hello World!
+description: My very first blog post
 date: 2023-05-05T12:00:00+02:00
-tags:
-- hello
-- Hugo
+tags: ["hello", "hugo"]
 categories:
 - Misc
 code:
   maxShownLines: 11
-description: My very first blog post
-featuredImagePreview: /posts/hello-world/images/hello-world-preview.jpg
+featuredImagePreview: images/hello-world-preview.jpg
 ---
 
 **Welcome to my humble blog.**
-
 <!--more-->
 
 I think it has been made clear but just to make sure everyone is on the same page: 
@@ -41,7 +38,7 @@ So why?
       > It has come to my attention, that I ABSOLUTELY very much at suck at writing documentation. Starting a blog, I will be forcing myself to write and post online in order to improve in the long run.
 
   2. Using it as an online portfolio
-      > Pretty much that. Why stop at just making a fool out of myself only among family, friends and at work, when I can dot it online as well by showing my personal projects.
+      > Pretty much that. Why stop at just making a fool out of myself only among family, friends and at work, when I can do it online as well.
 
   3. Improving technical skills as a developer
       > Getting roasted and humbled online might as well be the most effective way to improve and I will be putting that to the test.

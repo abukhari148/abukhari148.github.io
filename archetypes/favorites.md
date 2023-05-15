@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 subtitle: ""
-description: ""
-summary: ""
+description: Favorites of {{ replace .Name "-" " " | title }}
+summary: 
 date: {{ .Date }}
-tags: [""]
+tags: ["anime", "music", "gaming", "mtg", "learning"]
 keywords: [""]
-categories: [""]
+categories: ["favorites"]
 type: posts
 resources:
   - name: featured-image
@@ -18,3 +18,5 @@ toc: true
 draft: true
 ---
 
+
+<!--more-->

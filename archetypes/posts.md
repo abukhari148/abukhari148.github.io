@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 subtitle: ""
 description: ""
 summary: ""
@@ -18,3 +18,5 @@ toc: true
 draft: true
 ---
 
+
+<!--more-->

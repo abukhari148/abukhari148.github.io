@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 subtitle: ""
 description: ""
 summary: ""
 date: {{ .Date }}
-tags: [""]
+tags: ["project", ""]
 keywords: [""]
 categories: [""]
 type: posts
@@ -18,3 +18,5 @@ toc: true
 draft: true
 ---
 
+
+<!--more-->

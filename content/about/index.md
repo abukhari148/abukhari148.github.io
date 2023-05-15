@@ -1,15 +1,14 @@
 ---
 title: About Me
-date: 2023-05-13T16:28:50+02:00
 description: Self-introduction
 summary: Your friendly neighborhood, not SpiderMan ಥ_ಥ
-keywords: ""
+date: 2023-05-13T16:28:50+02:00
 tags: ["hello", "about"]
-comment: false
+keywords: [""]
+categories: ["Misc"]
 type: posts
 featuredImagePreview: images/anime-anime-glasses.gif
-categories:
-  - Misc
+comment: false
 menu:
     main:
         name: About

@@ -3,11 +3,13 @@ title: Hello World!
 description: My very first blog post
 date: 2023-05-05T12:00:00+02:00
 tags: ["hello", "hugo"]
-categories:
-- Misc
+categories: ["Misc"]
+type: posts
+featuredImagePreview: images/hello-world-preview.jpg
+comment: false
 code:
   maxShownLines: 11
-featuredImagePreview: images/hello-world-preview.jpg
+
 ---
 
 **Welcome to my humble blog.**

@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: About Me
 date: 2023-05-13T16:28:50+02:00
 description: Self-introduction
 summary: Your friendly neighborhood, not SpiderMan ಥ_ಥ
@@ -7,6 +7,7 @@ keywords: ""
 tags: ["hello", "about"]
 comment: false
 type: posts
+featuredImagePreview: images/anime-anime-glasses.gif
 categories:
   - Misc
 menu:
@@ -39,7 +40,7 @@ The very original github profile readme style intro with the cute emojis:
 > - #### Gaming: As kid I had the time but not the money to buy all the games, now I have all games but not the time.
 > - #### Magic The Gathering: parents do not let your kids play magic, it is by far the worst addiction ever.
 >  - #### Homelabbing: for the uninitiated, it is the process of building out large, power-hungry enterprise class servers, storage and networking at home.
-> - #### Hiking: just to shatter any assumptions of that I might be a just in.
+> - #### Hiking: just to shatter any assumptions of that I might be a total shut in.
 > - #### Anime/Manga: shocking right?
 
 {{< center-quote >}}Basically the the most stereotypical nerd template.{{< /center-quote >}}

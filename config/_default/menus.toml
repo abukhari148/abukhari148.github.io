@@ -6,7 +6,7 @@
     post=""
     name="Posts"
     url="/posts/"
-    title=""
+    title="All my infatuating posts"
     weight=1
     [main.params]
         animate=false
@@ -30,13 +30,24 @@
         icon="fa-solid fa-th fa-lg"
 
 [[main]]
+    identifier="favorites"
+    pre=""
+    post=""
+    name="Favorites"
+    url="/favorites/"
+    title=""
+    weight=3
+    [main.params]
+        icon="fa-solid fa-bookmark"
+
+[[main]]
     identifier="tags"
     pre=""
     post=""
     name="Tags"
     url="/tags/"
     title=""
-    weight=3
+    weight=4
     [main.params]
         icon="fa-solid fa-tags fa-lg"
 
@@ -47,6 +58,6 @@
     name="About"
     url="/about/"
     title=""
-    weight=4
+    weight=5
     [main.params]
         icon="fa-solid fa-person-falling-burst fa-lg"

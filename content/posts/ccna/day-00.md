@@ -11,7 +11,7 @@ type: posts
 featuredImagePreview: https://media.tenor.com/e1kqAVsK-iAAAAAC/zero-days-0days.gif
 comment: false
 toc: false
-draft: true
+draft: false
 ---
 
 Tag along as a try to prepare for the CCNA cert ヘ(◕。◕ヘ).

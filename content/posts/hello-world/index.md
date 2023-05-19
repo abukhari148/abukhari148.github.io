@@ -86,7 +86,7 @@ My end goal is achieve that my posts reach such quality, where I give the *impre
 
 > *Understanding one's code is for newbies, only the most valiant souls copy-paste code directly into production*. 
 > 
-> *Most likely in the coming 5 years or less Chatgpt-42[^1] will has eradicated all humanity.*
+> *Most likely in the coming 5 years or less Chatgpt-42[^1] will have eradicated all humanity.*
 
 ### What is this weird sense humor?
 - Is it supposed to be funny? 

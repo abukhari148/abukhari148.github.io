@@ -46,7 +46,7 @@ It allows to send and receive data in a LAN (local area network) among all the c
 It's the crappy little box that your ISP gives you when you sign up for internet. It's also the crappy little box that you have to reset every time your internet goes down.
 
 {{< admonition type=info title="Superpowers of a router?" open=true >}}
-It allows to send and receive data between different networks, and it also allows to connect to the internet and look a cute little videos.
+It allows to send and receive data between different networks, and it also allows to connect to the internet and look at cute little cat videos.
 {{< /admonition >}}
 
 ## And a Firewall?
@@ -102,7 +102,7 @@ Also helps the government to spy on you, but that's a story for another day.
 - A firewall is a device that allows to block or allow traffic based on a set of rules. There are 2 types:
     - Network-based firewall (hardware)
     - Host-based firewall (software)
-- A server is a computer that is always on and is exists somewhere on **THE CLOUD**.
+- A server is a computer that is always on and exists somewhere on **THE CLOUD**.
 - A client is a device that allows to send and receive data from a server.
 {{< /admonition >}}
 

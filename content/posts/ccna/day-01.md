@@ -9,7 +9,6 @@ categories: ["CCNA"]
 type: posts
 comment: false
 toc: true
-draft: true
 ---
 In today's entry we shall tackle all of life's big questions:
  - Why am I here?

@@ -42,7 +42,7 @@ The very original github profile readme style intro with the cute emojis:
 > - #### Hiking: just to shatter any assumptions of that I might be a total shut in.
 > - #### Anime/Manga: shocking right?
 
-{{< center-quote >}}Basically the the most stereotypical nerd template.{{< /center-quote >}}
+{{< center-quote >}}Basically the most stereotypical nerd template.{{< /center-quote >}}
 
 ## Links
 Like, subscribe and follow:

@@ -35,10 +35,10 @@ Last time I checked, according to Google Analytics I have no readers.
 4. Pass the exam.
 
 {{< center-quote >}}
-Easy Peasy Lemon Squeezy
+Easy Peasy Lemon Squeezy 🍋🍋
 {{< /center-quote >}}
 
-## Resources I will be using
+## My poison of choice
 After extensive research (skimming through the most voted post on the CCNA subreddit[^1]) I have decided to go with the following resources:
 
 - [Jeremy's IT LAB video course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)

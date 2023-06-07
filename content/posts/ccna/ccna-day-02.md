@@ -36,16 +36,15 @@ I cant be bothered put an image of an UTP cable and RJ45 connector here, you kno
 2. They have 8 pins &rarr; 4 pairs of 2 pins.
 3. They can only be used for short distances &rarr; 100 meters or less. Mostly used for LANs.
 4. They are not secure &rarr; can be easily tapped into, since they are not shielded.
-5. They are not fast &rarr; can only reach speeds of 10Gbps.
-6. They are not reliable &rarr; They are prone to electromagnetic interference.
-7. Electrical signals are used to send and receive data.
+5. They are not reliable &rarr; They are prone to electromagnetic interference.
+6. Electrical signals are used to send and receive data.
 
 ### UTP cable types:
 1. **Straight-through** &rarr; used to connect different devices.
 2. **Crossover** &rarr; used to connect similar devices.
 
 {{< center-quote >}}
-I hope you remember that UTP cables have 8 pins like 5s ago. If you don't, go back and read it again.
+I hope you remember that UTP cables have 8 pins. If you don't, go back and read from the start.
 {{< /center-quote >}}  
 
 | Device Type                 | Transmit Pins | Receive |

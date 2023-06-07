@@ -1,5 +1,5 @@
 ---
-title: "CCNA Day 0"
+title: "CCNA Day 00"
 subtitle: "Resources & Goals"
 description: "CCNA Day 0"
 summary: ""

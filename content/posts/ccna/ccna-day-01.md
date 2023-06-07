@@ -1,5 +1,5 @@
 ---
-title: CCNA Day 01
+title: CCNA Day 01 - Network Devices
 subtitle: "Network Devices"
 description: ""
 date: 2023-05-20T16:17:44+02:00

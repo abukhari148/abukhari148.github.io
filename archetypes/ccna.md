@@ -1,5 +1,5 @@
 ---
-title: CCNA {{ replace .Name "-" " " | title }}
+title: {{ replace .Name "-" " " | title }}
 subtitle: ""
 description: ""
 summary: ""
@@ -8,14 +8,9 @@ tags: ["CCNA", "networking", "cisco" ,"notes"]
 keywords: [""]
 categories: ["CCNA"]
 type: posts
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
+featuredImagePreview: 
 comment: false
 toc: true
-draft: true
 ---
 
 

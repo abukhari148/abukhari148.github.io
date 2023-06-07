@@ -88,11 +88,11 @@ Basically its a glass tube with a plastic tube around it and you use lasers to *
 {{< /admonition >}}
 
 {{< admonition type=info title="Behold the SFP connector" open=true >}}
-{{< figure src="/images/ccna/sfp.png" height=20%, width=60% >}}
+{{< image src="images/ccna/sfp.png" height=20%, width=60% >}}
 {{< /admonition >}}
 
 {{< admonition type=info title="The far less interesting cable" open=true >}}
-{{< figure src="/images/ccna/fiberCable.jpg" height=20%, width=60% >}}
+{{< image src="images/ccna/fiberCable.jpg" height=20%, width=60% >}}
 {{< /admonition >}}
 
 ### Types of Fiber Cables:

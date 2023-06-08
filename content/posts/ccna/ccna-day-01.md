@@ -1,7 +1,7 @@
 ---
 title: CCNA Day 01 - Network Devices
 subtitle: "Network Devices"
-description: ""
+description: "CCNA Day 01"
 date: 2023-05-20T16:17:44+02:00
 tags: ["CCNA", "networking", "cisco" ,"notes", "network fundamentals"]
 keywords: [""]

@@ -1,8 +1,7 @@
 ---
-title: "CCNA Day 00"
+title: "CCNA Day 00 - Resources & Goals"
 subtitle: "Resources & Goals"
 description: "CCNA Day 0"
-summary: ""
 date: 2023-05-19T14:57:24+02:00
 tags: ["CCNA", "networking", "cisco" ,"notes"]
 keywords: [""]

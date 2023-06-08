@@ -1,7 +1,7 @@
 ---
 title: CCNA Day 02 - UTP vs Fiber
-subtitle: "FIBER vs UTP"
-summary: "The amazing world of network cables, connectors and ports."
+subtitle: "UTP vs FIBER"
+description: "CCNA Day 02"
 date: 2023-05-22T17:22:44+02:00
 tags: ["CCNA", "networking", "cisco" ,"notes", "network fundamentals"]
 keywords: [""]
